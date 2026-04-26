@@ -18,7 +18,7 @@ Busco minha primeira oportunidade no mercado de tecnologia, onde eu possa aplica
 ## 🎓 Formação & Idiomas
 
 - **Engenharia de Software** – Universidade Católica de Brasília (UCB) | *Em curso*
-- **Ensino Médio Técnico Integrado** – [Nome do seu curso aqui] | *Concluído*
+- **Ensino Médio Técnico Integrado** – Eletronica | *Concluído*
 - **Idiomas:** - 🇺🇸 **Inglês:** Intermediário (Focado em leitura técnica e documentação)
 - **Espanhol:** Básico
 
