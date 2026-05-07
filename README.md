@@ -32,7 +32,7 @@ Sou um desenvolvedor proativo com uma base sólida construída desde o ensino m�
 
 ## 🔗 Conecte-se Comigo
 
-- **LinkedIn:** [Daniel Ferreira](https://linkedin.com/in/daniel-ferreira)
+- **LinkedIn:** [(https://www.linkedin.com/in/danielferreira-dev)](https://www.linkedin.com/in/danielferreira-dev)
 - **Email:** [danielferreiranovo1@gmail.com](mailto:danielferreiranovo1@gmail.com)
 
 ---
